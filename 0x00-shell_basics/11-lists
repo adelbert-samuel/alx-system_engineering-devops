@@ -1,2 +1,2 @@
 #!/bin/bash
-(echo "Current directory:"; ls -al; echo "Parent of working directory:"; cd ..; ls -al; echo "/boot directory:"; cd /boot; ls -al)
+(echo "Current directory:" ls -al echo "Parent of working directory:" cd .. ls -al echo "/boot directory:" cd /boot ls -al)
